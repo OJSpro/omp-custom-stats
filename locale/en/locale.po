@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-02T16:59+05:30\n"
+"PO-Revision-Date: 2026-01-02T16:59+05:30\n"
+"Language: en\n"
+
+msgid "plugins.generic.customStats.displayName"
+msgstr "Custom Usage Statistics by OJSpro"
+
+msgid "plugins.generic.customStats.description"
+msgstr "This plugin allows editors to add custom offset values to usage statistics for publications, enabling migration of legacy statistics from previous systems. Developed by OJSpro."
+
+msgid "plugins.generic.customStats.tab.label"
+msgstr "Custom Statistics"
+
+msgid "plugins.generic.customStats.abstractViewsOffset"
+msgstr "Abstract Views Offset"
+
+msgid "plugins.generic.customStats.fileDownloadsOffset"
+msgstr "File Downloads Offset"
+
+msgid "plugins.generic.customStats.currentOmpStats"
+msgstr "Current OMP Statistics"
+
+msgid "plugins.generic.customStats.customOffsets"
+msgstr "Custom Offsets"
+
+msgid "plugins.generic.customStats.combinedTotal"
+msgstr "Combined Total (Displayed to Users)"
+
+msgid "plugins.generic.customStats.abstractViews"
+msgstr "Abstract Views"
+
+msgid "plugins.generic.customStats.fileDownloads"
+msgstr "File Downloads"
+
+msgid "plugins.generic.customStats.save"
+msgstr "Save Offsets"
+
+msgid "plugins.generic.customStats.saveSuccess"
+msgstr "Custom statistics offsets saved successfully."
+
+msgid "plugins.generic.customStats.saveError"
+msgstr "Error saving custom statistics offsets."
+
+msgid "plugins.generic.customStats.helpText"
+msgstr "Add legacy statistics from your previous website as offset values. These will be added to OMP's native statistics when displaying to users. The actual OMP metrics remain unchanged."
+
+msgid "plugins.generic.customStats.validation.numeric"
+msgstr "Please enter a valid number."
+
+msgid "plugins.generic.customStats.validation.positive"
+msgstr "Please enter a positive number or zero."
+
+msgid "plugins.generic.customStats.chapterOffsets"
+msgstr "Chapter Statistics Offsets"
+
+msgid "plugins.generic.customStats.chapterViewsOffset"
+msgstr "Legacy Chapter Views Offset"
+
+msgid "plugins.generic.customStats.upgrade.title"
+msgstr "Upgrade to Chapter Statistics"
+
+msgid "plugins.generic.customStats.upgrade.button"
+msgstr "Enable Chapter Statistics"
+
+msgid "plugins.generic.customStats.upgrade.success"
+msgstr "Chapter statistics support has been enabled successfully!"
+
+msgid "plugins.generic.customStats.chapterStats.enableButton"
+msgstr "Enable Chapter Statistics"
+
+msgid "plugins.generic.customStats.chapterStats.disableButton"
+msgstr "Disable Chapter Statistics"
+
+msgid "plugins.generic.customStats.chapterStats.enabled"
+msgstr "Chapter statistics have been enabled."
+
+msgid "plugins.generic.customStats.chapterStats.disabled"
+msgstr "Chapter statistics have been disabled."
+
+msgid "plugins.generic.customStats.chapterStats.confirmEnable"
+msgstr "Are you sure you want to enable chapter statistics? This will show chapter offset fields in the Custom Statistics tab."
+
+msgid "plugins.generic.customStats.chapterStats.confirmDisable"
+msgstr "Are you sure you want to disable chapter statistics? This will hide chapter offset fields (existing data will be preserved)."

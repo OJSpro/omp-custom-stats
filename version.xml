@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+<version>
+	<application>customStats</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2026-01-02</date>
+	<lazy-load>1</lazy-load>
+	<class>CustomStatsPlugin</class>
+	<sitewide>0</sitewide>
+	<summary>Custom Usage Statistics by OJSpro - Add legacy statistics offsets to publications and chapters</summary>
+	<description>This plugin allows editors to add custom offset values to usage statistics for publications and chapters, enabling migration of legacy statistics from previous systems. Developed by OJSpro.</description>
+</version>
